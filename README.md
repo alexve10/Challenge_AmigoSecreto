@@ -1,6 +1,6 @@
 # Challenge_AmigoSecreto
 
-Este es un proyecto web interactivo para organizar un sorteo de "Amigo Secreto" de manera sencilla y divertida.
+### Este es un proyecto web interactivo para organizar un sorteo de "Amigo Secreto" de manera sencilla y divertida.
 
 ![image](https://github.com/user-attachments/assets/f088cb96-4686-43df-bd22-92857eb1def2)
 
@@ -10,13 +10,16 @@ CSS: Para el diseño y estilos visuales.
 
 JavaScript: Para la lógica del sorteo y la manipulación del DOM.
 
-La estructura del proyecto es la siguiente
+## La estructura del proyecto
+
+```
 AmigoSecreto/
 │── index.html  # Página principal
 │── style.css   # Estilos de la interfaz
 │── app.js      # Lógica del sorteo y funcionalidad
+```
 
-Cómo Usarlo
+## Cómo Usarlo
 
 1. Abre el archivo index.html en un navegador.
 
