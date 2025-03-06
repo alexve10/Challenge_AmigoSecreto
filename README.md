@@ -1,2 +1,7 @@
 # Challenge_AmigoSecreto
-Challenge Amigo Secreto de Alura
+
+Incluye archivos:
+app.js
+index.html
+style.css
+
